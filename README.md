@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurigoyal2020
-- 👀 I’m interested in Fullstacks development, Android Development, DevOps, Web3, Public Speaking, Philosophy, Literature and Linguistics.
-- 🌱 I’m currently learning back end web dev, android dev and about web3
-- 💞️ I’m looking to collaborate on Web Development and Android Development 
+- 👀 I’m interested in Fullstacks development, Android Development, DevOps, Public Speaking, Philosophy, Literature and Linguistics.
+- 🌱 I’m currently learning back end web dev
+- 💞️ I’m looking to collaborate on Web Development and Android Development
 - 📫 How to reach me: goyalgauri11@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Anything witty has my heart
